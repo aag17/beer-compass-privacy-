@@ -1,9 +1,9 @@
 
-# Privacy Policy for Beer Compass Pro
+# Privacy Policy for Booze Compass
 
-**Last updated:** June 4, 2025
+**Last updated:** June 6, 2025
 
-Beer Compass Pro (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains:
+Booze Compass (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains:
 1. What information we collect  
 2. How we use that information  
 3. Where and how we store it  
@@ -26,7 +26,7 @@ Beer Compass Pro (“we,” “our,” or “us”) respects your privacy. This 
 
 ## 2. How We Use Your Information
 
-• **Location** is used solely to display nearby licensed stores in Georgia and power the in-app compass arrow.  
+• **Location** is used solely to display nearby licensed stores and power the in-app compass arrow.  
 • We do not sell, rent, or share your location with any third parties.  
 • We do not collect personal identifiers like name, email, or device ID for any purpose.
 
@@ -41,13 +41,13 @@ Beer Compass Pro (“we,” “our,” or “us”) respects your privacy. This 
 
 ## 4. Children’s Privacy
 
-Beer Compass Pro is not intended for children under 13. We do not knowingly collect data from anyone under 13.
+Booze Compass not intended for children under 13. We do not knowingly collect data from anyone under 13.
 
 ---
 
 ## 5. Third-Party Services
 
-Our app may utilize third-party services (e.g., Apple Maps) for location and mapping features. Each third-party service may have its own privacy policy; we encourage you to review them as necessary.
+Our app may utilize third-party services (Apple Maps, Google Maps) for location and mapping features. Each third-party service may have its own privacy policy; we encourage you to review them as necessary.
 
 ---
 
